@@ -1,0 +1,4 @@
+{
+    "comment": "Since i can comment on json, i made this, but i would have baseurl without /login and use different logic",
+    "baseUrl": "https://the-internet.herokuapp.com/login"
+}
