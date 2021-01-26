@@ -1,3 +1,4 @@
 {
-    "integrationFolder": "cypress/uiTest"
+    "integrationFolder": "cypress/uiTest",
+    "projectId": "utipme"
 }
